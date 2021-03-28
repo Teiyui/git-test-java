@@ -1,2 +1,3 @@
 hello java
 goodbye java
+test for generation of error
